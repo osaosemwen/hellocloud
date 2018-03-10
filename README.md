@@ -4,7 +4,7 @@ clone this repo using
 
 $ git clone https://github.com/osaosemwen/hellocloud.git
 
-The application is an exerpt of a German paper which simply shows images from the past and links compares them to current using a simple jquery, css, and jscripts.
+The images from and write up from this webapp are taken from German paper. This application shows images from the past and links compares them to current using a simple jquery, css, and jscripts.
 
 # Steps
 Ensure docker is up and running on your system.
@@ -85,13 +85,13 @@ $ kubectl get svc
 
 This may take a while "be patient", run the command again. you should see your external ip.
 
-# Run you application with an external IP on the cloud.
+# Run your application with an external IP on the cloud.
 
 When you have the external IP: use it to run your application as shown below in my case.
 
 $ 35.220.98.212:80
 
-for me this IP is temp because I will clean up my deployment after, so it may not work for u. Its never safe to make use of IP for you application. preferrable to make use of DNS name (Alias or CNAME and map it to your application).
+for me this IP is temporary because I will clean up my deployment after, so it may not work for u. Its never safe to make use of IP for you application. preferrable to make use of DNS name (Alias or CNAME and map it to your application).
 
 # Enjoy Thats it.
 
