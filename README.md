@@ -6,6 +6,8 @@ $ git clone https://github.com/osaosemwen/hellocloud.git
 
 The images from and write up from this webapp are taken from a US paper Chigago tribune of April 24 2015 (http://www.chicagotribune.com/news/history/chi-then-and-now-photos-the-aragon-and-apollo-20150424-htmlstory.html). This application shows images from the past and compares them to current ones. The emphasis is using a jquery, css, and jscripts for the slides to imitate what was published.
 
+The purpose of this tutorial/application "hellocloud" is to demonstrate how to can take your built application from your computer, to a container, then push it to the cloud, and host it on a cloud platform.
+
 # Steps
 Ensure docker is up and running on your system.
 
