@@ -4,7 +4,7 @@ clone this repo using
 
 $ git clone https://github.com/osaosemwen/hellocloud.git
 
-The images from and write up from this webapp are taken from German paper. This application shows images from the past and links compares them to current using a simple jquery, css, and jscripts.
+The images from and write up from this webapp are taken from a US paper Chigago tribune of April 24 2015. This application shows images from the past and links compares them to current using a simple jquery, css, and jscripts.
 
 # Steps
 Ensure docker is up and running on your system.
